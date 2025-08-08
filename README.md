@@ -10,8 +10,8 @@ DocToys is a set of utilities for generating rich text documents, manage PDF fil
 
 |              | Current utilities: |              |
 |--------------|--------------------|--------------|
-| [Text Editor](https://github.com/iomismo/DocToys/wiki/en/Modules/TextEditor.md) | [Document Assembler](https://github.com/iomismo/DocToys/wiki/en/Modules/DocumentAssembler.md) | [PDF Merge](https://github.com/iomismo/DocToys/en/Modules/wiki/PDFMerge.md) |
-| [PDF Split](https://github.com/iomismo/DocToys/wiki/en/Modules/PDFSplit.md)|
+| [Text Editor](https://github.com/rabazco/DocToys/wiki/en/Modules/TextEditor.md) | [Document Assembler](https://github.com/rabazco/DocToys/wiki/en/Modules/DocumentAssembler.md) | [PDF Merge](https://github.com/rabazco/DocToys/en/Modules/wiki/PDFMerge.md) |
+| [PDF Split](https://github.com/rabazco/DocToys/wiki/en/Modules/PDFSplit.md)|
 
 ## Installing and running DocToys
 
@@ -50,15 +50,16 @@ For [v1.0.0.1][github-next-release-work], we'll work on the items below:
 
 ## Privacy Statement
 
-The application logs basic diagnostic data (telemetry). For more information on privacy and what we collect, see our [DocToys Data and Privacy documentation](https://github.com/iomismo/DocToys/blob/main/DATA_AND_PRIVACY.md).
+The application logs basic diagnostic data (telemetry). For more information on privacy and what we collect, see our [DocToys Data and Privacy documentation](https://github.com/rabazco/DocToys/blob/main/DATA_AND_PRIVACY.md).
 
-[github-release-link]: https://github.com/iomismo/DocToys/releases
+[github-release-link]: https://github.com/rabazco/DocToys/releases
 [microsoft-store-link]: https://apps.microsoft.com/detail/9PKRL773JTFL
-[roadmap]: https://github.com/iomismo/DocToys/wiki/en/Roadmap
-[privacy-link]: https://github.com/iomismo/DocToys/blob/main/DATA_AND_PRIVACY
-[loc-bug]: https://github.com/iomismo/DocToys/issues/new?assignees=&labels=&template=translation_issue.md&title=
-[usingDocToys-docs-link]: https://github.com/iomismo/DocToys/wiki/en/Home
-[github-next-release-work]: https://github.com/iomismo/DocToys/issues?q=is%3Aissue+milestone%3A%22DocToys+1.0.0.1%22
+[roadmap]: https://github.com/rabazco/DocToys/wiki/en/Roadmap
+[privacy-link]: https://github.com/rabazco/DocToys/blob/main/DATA_AND_PRIVACY
+[loc-bug]: https://github.com/rabazco/DocToys/issues/new?assignees=&labels=&template=translation_issue.md&title=
+[usingDocToys-docs-link]: https://github.com/rabazco/DocToys/wiki/en/Home
+[github-next-release-work]: https://github.com/rabazco/DocToys/issues?q=is%3Aissue+milestone%3A%22DocToys+1.0.0.1%22
+
 
 
 
