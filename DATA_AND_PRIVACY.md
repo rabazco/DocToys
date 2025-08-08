@@ -18,7 +18,7 @@ Rabazco has the discretion to occasionally update this privacy statement. We enc
 
 ## 5. Contacting Us
 If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us.
-rabazco@hotmail.com
+razcodev+privacy@proton.me
 
 
 Thank you for using DocToys!
