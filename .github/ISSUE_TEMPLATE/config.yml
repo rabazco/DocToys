@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "\U0001F4DA DocToys user documentation"
+    url: https://aka.ms/doctoys-docs
+    about: Documentation for users of DocToys utilities
