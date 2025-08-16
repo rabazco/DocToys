@@ -41,6 +41,8 @@ https://www.syncfusion.com/license/30.1.37/syncfusion_essential_studio_eula.pdf
 - Microsoft.Xaml.Behaviors.WinUI.Managed 3.0.0
 - Newtonsoft.Json 13.0.3
 - OpenXmlPowerTools-NetStandard 4.4.21
+- Serilog.Extensions.Hosting 9.0.0
+- Serilog.Sinks.File 7.0.0
 - Syncfusion.DocIO.NET 30.1.37
 - Syncfusion.DocIORenderer.NET 30.1.37
 - Syncfusion.Editors.WinUI 30.1.37
