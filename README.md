@@ -43,7 +43,7 @@ In this release, we focused on new features, stability, and improvements.
 
 #### What is being planned for version 1.0.0.1
 
-For [v1.0.0.1][github-next-release-work], we'll work on the items below:
+For [v0.0.1.0][github-next-release-work], we'll work on the items below:
 
  - Stability / bug fixes
  - Document Assembler Template Market
@@ -59,6 +59,7 @@ The application logs basic diagnostic data (telemetry). For more information on 
 [loc-bug]: https://github.com/rabazco/DocToys/issues/new?assignees=&labels=&template=translation_issue.md&title=
 [usingDocToys-docs-link]: https://github.com/rabazco/DocToys/wiki/en/Home
 [github-next-release-work]: https://github.com/rabazco/DocToys/issues?q=is%3Aissue+milestone%3A%22DocToys+1.0.0.1%22
+
 
 
 
