@@ -30,7 +30,7 @@ Install from the [Microsoft Store's DocToys page][microsoft-store-link]. You mus
 
 Our [prioritized roadmap][roadmap] of features and utilities that the core team is focusing on.
 
-### 0.0.1.0 - August 2025 Initial release
+### 0.1.0.0 - August 2025 Initial release
 
 In this release, we focused on new features, stability, and improvements.
 
@@ -41,9 +41,9 @@ In this release, we focused on new features, stability, and improvements.
  - Merge multiple PDF documents.
  - Split PDF documents at given pages.
 
-#### What is being planned for version 1.0.0.1
+#### What is being planned for version 0.2.0.0
 
-For [v0.0.2.0][github-next-release-work], we'll work on the items below:
+For [v0.2.0.0][github-next-release-work], we'll work on the items below:
 
  - Stability / bug fixes
  - Document Assembler Template Market
