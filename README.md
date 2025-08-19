@@ -10,8 +10,8 @@ DocToys is a set of utilities for generating rich text documents, manage PDF fil
 
 |              | Current utilities: |              |
 |--------------|--------------------|--------------|
-| [Text Editor](https://github.com/rabazco/DocToys/wiki/Modules/TextEditor-Overview) | [Document Assembler](https://github.com/rabazco/DocToys/wiki/Modules/DocumentAssembler-Overview) | [PDF Merge](https://github.com/rabazco/DocToys/wiki/Modules/PDFMerge-Overview) |
-| [PDF Split](https://github.com/rabazco/DocToys/wiki/Modules/PDFSplit-Overview)|
+| [Text Editor](https://github.com/rabazco/DocToys/wiki/TextEditor-Overview) | [Document Assembler](https://github.com/rabazco/DocToys/wiki/DocumentAssembler-Overview) | [PDF Merge](https://github.com/rabazco/DocToys/wiki/PDFMerge-Overview) |
+| [PDF Split](https://github.com/rabazco/DocToys/wiki/PDFSplit-Overview)|
 
 ## Installing and running DocToys
 
