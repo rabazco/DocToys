@@ -58,7 +58,7 @@ The application logs basic diagnostic data (telemetry). For more information on 
 [privacy-link]: https://github.com/rabazco/DocToys/blob/main/DATA_AND_PRIVACY.md
 [loc-bug]: https://github.com/rabazco/DocToys/issues/new?assignees=&labels=&template=translation_issue.md&title=
 [usingDocToys-docs-link]: https://github.com/rabazco/DocToys/wiki/Home
-[github-next-release-work]: https://github.com/rabazco/DocToys/issues?q=is%3Aissue+milestone%3A%22DocToys+1.0.0.1%22
+[github-next-release-work]: https://github.com/rabazco/DocToys/issues?q=is%3Aissue+milestone%3A%22DocToys+0.2.0.0%22
 
 
 
