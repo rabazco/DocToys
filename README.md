@@ -10,8 +10,8 @@ DocToys is a set of utilities for generating rich text documents, manage PDF fil
 
 |              | Current utilities: |              |
 |--------------|--------------------|--------------|
-| [Text Editor](https://github.com/rabazco/DocToys/wiki/en/Modules/TextEditor.md) | [Document Assembler](https://github.com/rabazco/DocToys/wiki/en/Modules/DocumentAssembler.md) | [PDF Merge](https://github.com/rabazco/DocToys/en/Modules/wiki/PDFMerge.md) |
-| [PDF Split](https://github.com/rabazco/DocToys/wiki/en/Modules/PDFSplit.md)|
+| [Text Editor](https://github.com/rabazco/DocToys/wiki/Modules/TextEditor-Overview) | [Document Assembler](https://github.com/rabazco/DocToys/wiki/Modules/DocumentAssembler-Overview) | [PDF Merge](https://github.com/rabazco/DocToys/wiki/Modules/PDFMerge-Overview) |
+| [PDF Split](https://github.com/rabazco/DocToys/wiki/Modules/PDFSplit-Overview)|
 
 ## Installing and running DocToys
 
@@ -54,10 +54,10 @@ The application logs basic diagnostic data (telemetry). For more information on 
 
 [github-release-link]: https://github.com/rabazco/DocToys/releases
 [microsoft-store-link]: https://apps.microsoft.com/detail/9PKRL773JTFL
-[roadmap]: https://github.com/rabazco/DocToys/wiki/en/Roadmap
-[privacy-link]: https://github.com/rabazco/DocToys/blob/main/DATA_AND_PRIVACY
+[roadmap]: https://github.com/rabazco/DocToys/wiki/Roadmap
+[privacy-link]: https://github.com/rabazco/DocToys/blob/main/DATA_AND_PRIVACY.md
 [loc-bug]: https://github.com/rabazco/DocToys/issues/new?assignees=&labels=&template=translation_issue.md&title=
-[usingDocToys-docs-link]: https://github.com/rabazco/DocToys/wiki/en/Home
+[usingDocToys-docs-link]: https://github.com/rabazco/DocToys/wiki/Home
 [github-next-release-work]: https://github.com/rabazco/DocToys/issues?q=is%3Aissue+milestone%3A%22DocToys+1.0.0.1%22
 
 
