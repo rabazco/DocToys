@@ -30,7 +30,6 @@ https://www.syncfusion.com/license/30.1.37/syncfusion_essential_studio_eula.pdf
 - CommunityToolkit.WinUI.Extensions 8.2.250402
 - CommunityToolkit.WinUI.Lottie 8.1.240821
 - CommunityToolkit.WinUI.UI.Controls.DataGrid 7.1.2
-- DevExpress.WinUI 23.2.9
 - DocumentFormat.OpenXml 3.3.0
 - Microsoft.Extensions.DependencyInjection 9.0.6
 - Microsoft.Extensions.Hosting 9.0.6
