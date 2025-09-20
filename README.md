@@ -10,7 +10,7 @@ DocToys is a set of utilities for generating rich text documents, manage PDF fil
 
 |              | Current utilities: |              |
 |--------------|--------------------|--------------|
-| [Text Editor](https://github.com/rabazco/DocToys/wiki/TextEditor-Overview) | [Document Assembler](https://github.com/rabazco/DocToys/wiki/DocumentAssembler-Overview) | [PDF Merge](https://github.com/rabazco/DocToys/wiki/PDFMerge-Overview) |
+| [Text Editor](https://github.com/rabazco/DocToys/wiki/TextEditor-Overview) | [DocMaker](https://github.com/rabazco/DocToys/wiki/DocMaker-Overview) | [PDF Merge](https://github.com/rabazco/DocToys/wiki/PDFMerge-Overview) |
 | [PDF Split](https://github.com/rabazco/DocToys/wiki/PDFSplit-Overview)|
 
 ## Installing and running DocToys
@@ -37,7 +37,7 @@ In this release, we focused on new features, stability, and improvements.
 ✨**Highlights**
  
  - Multi Tab Text Editor with autosave. Continue your work where you left.
- - Document Assembler. Generate documents from a DOCX template and any data source that can be serialized as XML. Our intelligent document assembler merges official XML tax forms (e.g. Modelo 650) into legally structured Word templates in seconds. Ideal for inheritance declarations and other complex filings, this tool transforms tax data into polished private documents – instantly.
+ - DocMaker. Generate documents from a DOCX template and any data source that can be serialized as XML. Our intelligent DocMaker merges official XML tax forms (e.g. Modelo 650) into legally structured Word templates in seconds. Ideal for inheritance declarations and other complex filings, this tool transforms tax data into polished private documents – instantly.
  - Merge multiple PDF documents.
  - Split PDF documents at given pages.
 
@@ -46,7 +46,7 @@ In this release, we focused on new features, stability, and improvements.
 For [v0.2.0.0][github-next-release-work], we'll work on the items below:
 
  - Stability / bug fixes
- - Document Assembler Template Market
+ - DocMaker Template Market
 
 ## Privacy Statement
 
