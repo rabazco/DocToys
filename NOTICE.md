@@ -2,7 +2,7 @@
 
 This software incorporates material from third parties.
 
-- Document Assembler
+- DocMaker
 - PDF Merge
 - PDF Split
 
